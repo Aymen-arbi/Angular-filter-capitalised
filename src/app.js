@@ -1,4 +1,5 @@
-angular.module('aymensCapitalise', [])
+'use strict';
+angular.module('aymensCapitaliseFilter', [])
 	.filter('capitalise', function () {
 		return function (input) {
 			var words = input.split(/-| /),
