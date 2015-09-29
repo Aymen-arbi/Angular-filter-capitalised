@@ -1,0 +1,25 @@
+{
+  "name": "angular-filter-capitalised",
+  "version": "1.0.0",
+  "description": "capitalised",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aymen-arbi/Angular-filter-capitalised.git"
+  },
+  "author": "Aymen Arbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aymen-arbi/Angular-filter-capitalised/issues"
+  },
+  "homepage": "https://github.com/Aymen-arbi/Angular-filter-capitalised",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
+}

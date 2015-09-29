@@ -1,0 +1,24 @@
+{
+  "name": "angular-filter-capitalised",
+  "version": "1.0.0",
+  "authors": [
+    "Aymen Arbi <aymen.arbi@gmail.com>"
+  ],
+  "description": "angular js filter to capitalise the first letter of a string",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "https://github.com/Aymen-arbi/Angular-filter-capitalised.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.6"
+  }
+}
